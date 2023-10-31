@@ -4,13 +4,13 @@
   "description": "Token Action HUD is a repositionable HUD of actions for a selected token",
   "authors": [
     {
-      "name": "Larkinabout",
-      "url": "https://github.com/Larkinabout"
+      "name": "Axecleft",
+      "url": "https://github.com/Axecleft"
     }
   ],
-  "url": "This is auto replaced",
+  "url": "https://github.com/Axecleft",
   "flags": {},
-  "version": "This is auto replaced",
+  "version": "1.5.1",
   "compatibility": {
     "minimum": "11",
     "verified": "11.313"
@@ -63,9 +63,9 @@
     }
   },
   "socket": false,
-  "manifest": "This is auto replaced",
-  "download": "This is auto replaced",
-  "readme": "https://github.com/Larkinabout/fvtt-token-action-hud-template#readme",
+  "manifest": "https://github.com/Axecleft/fvtt-token-action-hud-template/releases/tag/1.5.1/module.json",
+  "download": "https://github.com/Axecleft/fvtt-token-action-hud-template/archive/refs/tags/1.5.1.zip",
+  "readme": "https://github.com/Axecleft/fvtt-token-action-hud-template#readme",
   "protected": false,
   "coreTranslation": false,
   "library": false
